@@ -54,4 +54,4 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 En este curso las herramientas de programación que se emplearán son las siguientes:
 - [Google Colab](https://colab.research.google.com/)
 - [AWS Educate](https://aws.amazon.com/es/education/awseducate/)
-- [Databricks](https://databricks.com/). Para usar esta herramienta debes crear tu ccuenta en [Databricks Community edition](https://docs.databricks.com/en/getting-started/community-edition.html)
+- [Databricks](https://databricks.com/). Para usar esta herramienta debes crear tu cuenta en [Databricks Community edition](https://docs.databricks.com/en/getting-started/community-edition.html). Para iniciar sesión debe ir al siguiente [enlace](https://community.cloud.databricks.com/login.html?tuuid=b5648ee4-4f3e-44dc-bcb4-cc0b0c41f4ff)
