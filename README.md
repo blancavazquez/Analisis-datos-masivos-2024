@@ -47,7 +47,7 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - Participación (10%)
 
 ## Profesor
-**Blanca Hilda Vázquez Gómez**
+**Blanca Vázquez**
   - Correo: blancavazquez2013[arroba]gmail.com
 
 ## Ambiente de programación
