@@ -5,8 +5,8 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 **1. Reducción de dimensionalidad**
   - Vectores y valores propios de matrices simétricas
   - Descomposición de valores singulares
-  - Análisis de componentes principales
   - Descomposición CUR
+  - Análisis de componentes principales
   
 **2. Modelo de mapeo y reducción**
   - Sistema de almacenamiento y procesamiento distribuido
