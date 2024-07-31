@@ -21,6 +21,7 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
   - Muestreo
   - Filtrado
   - Conteo
+  - Estimación de momentos
   - Procesamiento de flujos de datos estructurados
 
 **4. Sistemas de recomendación**
